@@ -1,0 +1,9 @@
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp1.1\AuthorizationServer.deps.json
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp1.1\AuthorizationServer.runtimeconfig.json
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp1.1\AuthorizationServer.runtimeconfig.dev.json
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp1.1\AuthorizationServer.dll
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp1.1\AuthorizationServer.csprojResolveAssemblyReference.cache
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp1.1\AuthorizationServer.AssemblyInfo.cs
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\bin\Debug\netcoreapp1.1\AuthorizationServer.pdb
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp1.1\AuthorizationServer.dll
+c:\users\mobib\documents\visual studio 2017\Projects\AuthorizationServer\AuthorizationServer\obj\Debug\netcoreapp1.1\AuthorizationServer.pdb
